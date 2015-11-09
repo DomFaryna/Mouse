@@ -16,3 +16,8 @@ C:\Users\Dom\Desktop\mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj
 C:\Users\Dom\Desktop\mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Mouse_Mover.resources
 C:\Users\Dom\Desktop\mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
 C:\Users\Dom\Desktop\mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.TrustInfo.xml
+C:\Users\Dom\Desktop\Mouse\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.manifest
+C:\Users\Dom\Desktop\Mouse\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.application
+C:\Users\Dom\Desktop\Mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe.manifest
+C:\Users\Dom\Desktop\Mouse\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.application
